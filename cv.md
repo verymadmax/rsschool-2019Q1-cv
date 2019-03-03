@@ -1,17 +1,45 @@
-# Что должно содержать в себе резюме Junior разработчика
+# Maksim Nosikau
 
-! Важно: по-возможности составлять резюме на английском
+## Contacts
 
-1. Имя, фамилия (реальные)
-2. Контакты (желательно несколько)
-3. Summary (цель, пожелания, раскрыть, что важно, что хочется и почему.
-Некий вариант самопрезентации. Когда опыта минимум, джун продает свой потенциал,
-свое желание и способность быстро учиться. Не занимать позицию, что он придет,
-и все кинутся его учить. Но обратное – у джуна время все брать, отовсюду, всегда и т.д.).
-4. Skills (например: языки программирования, фреймворки, методологии, системы контроля версий, тулы...)
-5. Примеры кода (по возможности СВЕЖИЕ)
-6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
+Phone number: *+375(29)000-000*
+Instagram: **@_nosik__**
+
+### Summary
+
+In this year i start learnin JS, it's very intresting. I cannot sleep without thinking about it. I understand it is hard work, but i choose it and i wanna be better.
+
+### Skills
+
+* Programming Languages
+  * JavaScript
+  * HTML5
+  * CSS3
+
+* Concurrent Versions System
+  * Github
+
+### Code Samples
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+### Exp
+
+Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
 фрилансовые проекты – все, где он применял вышеупомянутые скилы.
 Круто, если это будет со ссылками на код)
-7. Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
-8. Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.)
+
+### Education
+
+Rolling Scopes School
+Cisco Certified Network Associate (CCNA) Routing and Switchin
+
+######## English level
+
+English | advanced reading, writing, intermediate speaking ability.
