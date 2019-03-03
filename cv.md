@@ -2,8 +2,8 @@
 
 ## Contacts
 
-Phone number: *+375(29)000-000*
-Instagram: **@_nosik__**
+1. Phone number: *+375(29)000-000*
+2. **Instagram: @_nosik__**
 
 ### Summary
 
@@ -13,8 +13,8 @@ In this year i start learnin JS, it's very intresting. I cannot sleep without th
 
 * Programming Languages
   * JavaScript
-  * HTML5
-  * CSS3
+  * HTML 5
+  * CSS 3
 
 * Concurrent Versions System
   * Github
@@ -29,17 +29,18 @@ function fancyAlert(arg) {
 }
 ```
 
-### Exp
+### Experience
 
-Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
-фрилансовые проекты – все, где он применял вышеупомянутые скилы.
-Круто, если это будет со ссылками на код)
+[learn.javascript](https://learn.javascript.com)
+[HTML_CSS](https://www.codecademy.com)
 
 ### Education
 
 Rolling Scopes School
 Cisco Certified Network Associate (CCNA) Routing and Switchin
 
-######## English level
+### English level
 
-English | advanced reading, writing, intermediate speaking ability.
+english_ability |
+-----------------------------------------------------------
+advanced reading | advanced writing | intermediate speaking
