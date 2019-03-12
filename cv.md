@@ -7,7 +7,7 @@
 
 ### Summary
 
-In this year i start learnin JS, it's very intresting. I cannot sleep without thinking about it. I understand it is hard work, but i choose it and i wanna be better.
+*In this year i'm start learnin JS, it's very intresting. I cannot sleep without thinking about it. I understand it is hard work, but i choose it and i wanna be better.*
 
 ### Skills
 
@@ -31,7 +31,8 @@ function fancyAlert(arg) {
 
 ### Experience
 
-* [learn.javascript](https://learn.javascript.com)
+
+* [learn.javascript](https://learn.javascript.ru)
 * [HTML_CSS](https://www.codecademy.com)
 
 ### Education
