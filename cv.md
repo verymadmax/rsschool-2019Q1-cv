@@ -43,5 +43,5 @@ function fancyAlert(arg) {
 ### English level
 
 advanced | intermediate
-=====
+---------|-----------
 reading,writing | speaking
