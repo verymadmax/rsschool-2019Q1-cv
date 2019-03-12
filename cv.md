@@ -31,6 +31,7 @@ function fancyAlert(arg) {
 
 ### Experience
 
+
 * [learn.javascript](https://learn.javascript.ru)
 * [HTML_CSS](https://www.codecademy.com)
 
@@ -42,5 +43,4 @@ function fancyAlert(arg) {
 ### English level
 
 advanced | intermediate
----
 reading,writing | speaking
